@@ -6,7 +6,7 @@
 - 👯 **I’m looking to collaborate on Youtube**
 - 🤔 **I’m looking for help with Machine Learning developers**
 - 💬 **Ask me about on Web devlopement or any tech related stuff.**
-- 📫 How to reach me: [Twitter - @nitin_k33](https://twitter.com/nitin_k33) , [linkedin](https://www.linkedin.com/in/nitin-kumar-7a74411b2/)
+- 📫 **How to reach me:** [Twitter - @nitin_k33](https://twitter.com/nitin_k33) , [linkedin](https://www.linkedin.com/in/nitin-kumar-7a74411b2/)
 - 😄 **Pronouns: He/his.**
 - ⚡ **Fun fact: I spent almost 12 hours listening songs everyday.**
 
