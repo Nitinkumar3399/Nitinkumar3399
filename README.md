@@ -2,7 +2,7 @@
 
 
 - 🔭 **I’m currently pursuing B.Tech in COE in Netaji Subhas University of Technology.** 
-- 🌱 **I’m currently learning Android development.**
+- 🌱 **I’m currently learning about Machine Learning.**
 - 👯 **I’m looking to collaborate on Youtube**
 - 🤔 **I’m looking for help with Machine Learning developers**
 - 💬 **Ask me about on Web devlopement or any tech related stuff.**
