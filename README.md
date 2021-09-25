@@ -4,18 +4,16 @@
 - 🌱 **I’m currently learning about Machine Learning.**
 - 👯 **I’m looking to collaborate on Youtube**
 - 🤔 **I’m looking for help with Machine Learning developers**
-- 💬 **Ask me about on Web devlopement or any tech related stuff.**
+- 💬 **Ask me about on Web & Android developement or any tech related stuff.**
 - 📫 **How to reach me:** [Twitter - @nitin_k33](https://twitter.com/nitin_k33) , [linkedin](https://www.linkedin.com/in/nitin-kumar-7a74411b2/)
 - 😄 **Pronouns: He/his.**
 - ⚡ **Fun fact: I spent almost 12 hours listening songs everyday.**
 
 ### 🌱 Github Values
-<img src = "https://github-readme-stats.vercel.app/api?username=Nitinkumar3399&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=Nitinkumar3399&&show_icons=true&line_height=20&count_private=false&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></a>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinkumar3399&" alt="Nitinkumar3399" /></p> -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitinkumar3399&show_icons=true&locale=en&layout=compact" alt="Nitinkumar3399" /></p>
-
+<a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitinkumar3399&show_icons=true&line_height=20&locale=en&layout=compact&html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="Nitinkumar3399" /></a>
+ 
 <h3><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me:</h3>
 
 <p><a href="#" rel="nofollow"><img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;"></a>
