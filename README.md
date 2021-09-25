@@ -1,7 +1,7 @@
 ### Hi there, I'm Nitin Kumar  👋
 
 
-- 🔭 **I’m currently pursuing B.Tech in COE in Netaji Subhas University of Technology.** 
+- 🔭 **I’m currently pursuing B.Tech in COE from Netaji Subhas University of Technology.** 
 - 🌱 **I’m currently learning about Machine Learning.**
 - 👯 **I’m looking to collaborate on Youtube**
 - 🤔 **I’m looking for help with Machine Learning developers**
