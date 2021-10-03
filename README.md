@@ -10,7 +10,7 @@
 - ⚡ **Fun fact: I spent almost 12 hours listening songs everyday.**
 
 ### 🌱 Github Values
-<a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=Nitinkumar3399&&show_icons=true&line_height=20&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></a>
+<a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=Nitinkumar3399&&show_icons=true&line_height=20&count_private=false&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></a>
 
 <a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitinkumar3399&show_icons=true&line_height=20&locale=en&layout=compact&html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="Nitinkumar3399" /></a>
  
