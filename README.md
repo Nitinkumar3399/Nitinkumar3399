@@ -7,7 +7,7 @@
 - 💬 **Ask me about on Web & Android developement or any tech related stuff.**
 - 📫 **How to reach me:** [Twitter - @nitin_k33](https://twitter.com/nitin_k33) , [linkedin](https://www.linkedin.com/in/nitin-kumar-7a74411b2/)
 - 😄 **Pronouns: He/his.**
-- ⚡ **Fun fact: I spent almost 12 hours listening songs everyday.**
+- ⚡ **I'm always interested in solving Data structures & Algorithms related problems.**  
 
 ### 🌱 Github Values
 <a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=Nitinkumar3399&&show_icons=true&line_height=20&count_private=false&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></a>
