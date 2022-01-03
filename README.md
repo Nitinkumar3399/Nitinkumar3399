@@ -1,10 +1,10 @@
 ### Hello! I'm **Nitin Kumar** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
 
 - 🔭 **I’m currently pursuing B.Tech in COE from Netaji Subhas University of Technology.** 
-- 🌱 **I’m currently learning about Machine Learning.**
-- 👯 **I’m looking to collaborate on Youtube**
+- 🌱 **I’m currently learning about Android Machine Learning.**
+- 👯 **I’m looking eagerly to collaborate with ML developers of Amazon**
 - 🤔 **I’m looking for help with Machine Learning developers**
-- 💬 **Ask me about on Web & Android developement or any tech related stuff.**
+- 💬 **Ask me about on Web & Android developement or any tech related stuff only.**
 - 📫 **How to reach me:** [Twitter - @nitin_k33](https://twitter.com/nitin_k33) , [linkedin](https://www.linkedin.com/in/nitin-kumar-7a74411b2/)
 - 😄 **Pronouns: He/his.**
 - ⚡ **I'm always interested in solving Data structures & Algorithms related problems.**  
