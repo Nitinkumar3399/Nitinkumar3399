@@ -1,4 +1,4 @@
-### Hello! I'm **Nitin Kumar** <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> 
+### Hello! I'm **Nitin Kumar**  
 
 - 🔭 **I’m currently pursuing B.Tech in COE from Netaji Subhas University of Technology.** 
 - 🌱 **I’m currently learning about Android Machine Learning (Using Tensorflow Lite).**
