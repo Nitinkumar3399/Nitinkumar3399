@@ -1,5 +1,7 @@
 ### Hello! I'm **Nitin Kumar**  
 
+<img src="https://komarev.com/ghpvc/?username=Nitinkumar3399&style=flat-square&color=blue" alt=""/>
+
 - 🔭 **I’m currently pursuing B.Tech in COE from Netaji Subhas University of Technology.** 
 - 🌱 **I’m currently learning about Android Machine Learning (Using Tensorflow Lite).**
 - 👯 **I’m looking eagerly to collaborate with ML developers of Amazon.**
