@@ -5,7 +5,7 @@
 - 👯 **I’m looking eagerly to collaborate with ML developers of Amazon.**
 - 🤔 **I’m looking for help with Machine Learning developers.**
 - 💬 **Ask me about on Web & Android developement or any tech related stuff only.**
-- 📫 **How to reach me:** [Twitter - @nitin_k33](https://twitter.com/nitin_k33) , [linkedin](https://www.linkedin.com/in/nitin-kumar-7a74411b2/)
+- 📫 **How to reach me:** <a href="https://www.linkedin.com/in/nitin-kumar-7a74411b2/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://twitter.com/nitin_k33"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 - 😄 **Pronouns: He/his.**
 - ⚡ **I'm always interested in solving Data structures & Algorithms related problems.**  
 
