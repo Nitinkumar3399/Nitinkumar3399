@@ -1,4 +1,4 @@
-### Hello! I'm **Nitin Kumar**  
+### Hi 👋, I'm **Nitin Kumar**  
 
 <img src="https://komarev.com/ghpvc/?username=Nitinkumar3399&style=flat-square&color=blue" alt=""/>
 
