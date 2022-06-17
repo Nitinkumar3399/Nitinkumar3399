@@ -2,8 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Nitinkumar3399&style=flat-square&color=blue" alt=""/>
 
-- 🔭 **I’m currently pursuing B.Tech in COE from Netaji Subhas University of Technology.** 
-- 🌱 **I’m currently learning about Android Machine Learning (Using Tensorflow Lite).**
+- 👨‍🎓 **I’m currently pursuing B.Tech in COE from Netaji Subhas University of Technology.** 
+- 💻 **I’m currently learning about Android Machine Learning (Using Tensorflow Lite).**
 - 👯 **I’m looking eagerly to collaborate with ML developers of Amazon.**
 - 🤔 **I’m looking for help with Machine Learning developers.**
 - 💬 **Ask me about on Web & Android developement or any tech related stuff only.**
@@ -12,7 +12,7 @@
 - ⚡ **I'm always interested in solving Data structures & Algorithms related problems.**  
 
 ### 🌱 Github Values
-<a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=Nitinkumar3399&&show_icons=true&line_height=20&count_private=false&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></a>
+<a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src = "https://github-readme-stats.vercel.app/api?username=Nitinkumar3399&&show_icons=true&theme=radical&line_height=20&count_private=false&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></a>
 
 <a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitinkumar3399&show_icons=true&line_height=20&locale=en&layout=compact&html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="Nitinkumar3399" /></a>
  
