@@ -67,6 +67,7 @@
 
 <br>
 <br>
+<br>
 
 <a href="https://www.sqlite.org/" title = "SQLite" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/> </a> 
 
