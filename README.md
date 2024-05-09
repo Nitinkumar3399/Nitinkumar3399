@@ -49,8 +49,6 @@
 
 <a href="https://flask.palletsprojects.com/" title = "Flask" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/> </a>
 
-<a href="https://git-scm.com/" title = "Git" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
-
 <a href="https://heroku.com" title = "Heroku" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> 
 
 <a href="https://www.java.com" title = "Java" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
