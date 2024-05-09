@@ -18,6 +18,13 @@
 
 ### ⚡ Tech stack
 
+<a href="https://developer.android.com" title = "Android" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="38" height="38"/> </a> 
+
+<a href="https://firebase.google.com/" title = "Firebase" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a>
+
+<a href="https://www.w3schools.com/cpp/" title = "C++" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a>
+
+<a href="#" title = "Kotlin" rel="nofollow"><img align="left" alt="Kotlin" width="32px" height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="max-width:100%;"></a>
 
  <a href="#" title = "Visual Studio Code" rel="nofollow"><img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;"></a>
 
@@ -29,34 +36,24 @@
 
  <a href="#" title = "SQL" rel="nofollow"><img align="left" alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width:100%;"></a>
 
-  <a href="#" title = "Git" rel="nofollow"><img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
+  <a href="#" title = "Git" rel="nofollow"><img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
 
  <a href="#" title = "Github" rel="nofollow"><img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;"></a>
 
+ <br>
+ <br>
+
  <a href="#" title = "Terminal" rel="nofollow"><img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></p>
 
-<a href="https://www.w3schools.com/cpp/" title = "C++" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a>
-
 <a href="https://www.gnu.org/software/bash/" title = "Bash" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" height="35"/> </a>
-
-<a href="https://firebase.google.com/" title = "Firebase" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a>
 
 <a href="https://www.tensorflow.org" title = "Tensorflow" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a>
 
 <a href="https://www.mongodb.com/" title = "MongoDB" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/> </a> 
 
-<a href="https://developer.android.com" title = "Android" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="38" height="38"/> </a> 
-
-<a href="https://flask.palletsprojects.com/" title = "Flask" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/> </a>
-
 <a href="https://heroku.com" title = "Heroku" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> 
 
 <a href="https://www.java.com" title = "Java" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
-
-<br>
-<br>
-
-<a href="#" title = "Kotlin" rel="nofollow"><img align="left" alt="Kotlin" width="32px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="max-width:100%;"></a>
 
 <a href="https://www.linux.org/" title = "Linux" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a>  
 
@@ -68,9 +65,10 @@
 
 <a href="https://scikit-learn.org/" title = "Scikit-Learn" target="_blank" rel="noreferrer"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> </a> 
 
-<a href="https://www.sqlite.org/" title = "SQLite" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/> </a> 
+<br>
+<br>
 
-<a href="https://mariadb.org/" title = "MariaDB" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" title = "SQLite" target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/> </a> 
 
 <a href="https://www.mysql.com/" title = "MYSQL" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/> </a> 
 
