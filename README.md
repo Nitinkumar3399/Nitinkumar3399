@@ -12,7 +12,7 @@
 <a href="https://github.com/Nitinkumar3399/Nitinkumar3399"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitinkumar3399&show_icons=true&line_height=20&locale=en&layout=compact&html&text_color=C9CACC&title_color=FFFFFF&icon_color=1C68C5&bg_color=0D1117" alt="Nitinkumar3399" /></a>
 
 ### 👨‍💻 Coding Profiles
-<a href="https://leetcode.com/u/nitink_33/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="nitin_k33" height="29" width="40" /></a>
+<a href="https://leetcode.com/u/HustlerNitin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="nitin_k33" height="29" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/nitinkumarco19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="nitin_k33" height="35" width="46" /></a>
 <a href="https://www.codechef.com/users/nitin_k33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nitin_k33" height="29" width="40" /></a>
 
